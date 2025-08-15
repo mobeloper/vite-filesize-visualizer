@@ -1,5 +1,5 @@
 # vite-filesize-visualizer
-File visualizer for Vite apps
+File visualizer for Vite apps using rollup-plugin-visualizer.
 
 # Setup
 1. Add the content of visualizer() inside the configuration.ts into your existing vite.config.ts file. This part does the magic:
